@@ -18,5 +18,8 @@ Generic distribution file for which reads in the data and initializes variables.
 
 # Installation
 
-`pip install distributions`
+`pip install gaus_bi_probability`
 
+# License
+
+The MIT License (MIT) Copyright (c) 2020 Adnan Mostafa
